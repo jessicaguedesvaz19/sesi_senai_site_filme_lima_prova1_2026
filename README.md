@@ -1,1 +1,7 @@
-# sesi_senai_site_filme_lima_prova1_2026
+## Projeto Avaliativo:
+
+Site sobre meu filme preferido: Meu amigo Totoro.
+
+### Tecnologias:
+HTML;
+CSS.
